@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/BATCH_BUILD/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/BATCH_BUILD/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/BATCH_BUILD/value=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/IDF_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/IDF_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/IDF_PATH/value=/home/tambor/esp/esp-idf
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/PATH/value=/home/tambor/esp/xtensa-esp32-elf/bin\:/bin\:/home/tambor/.local/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/lib/jvm/java-11-oracle/bin\:/usr/lib/jvm/java-11-oracle/db/bin\:/home/tambor/stm32/gcc-arm-none-eabi-8-2018-q4-major/bin
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.471925193/appendContributed=true
